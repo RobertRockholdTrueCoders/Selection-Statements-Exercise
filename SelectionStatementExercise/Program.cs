@@ -28,23 +28,22 @@
         {
             Console.WriteLine("What is your favorite school subject?");
             string favoriteSubject = Console.ReadLine();
-            string favoriteTopic = favoriteSubject.ToUpper();
     
-            switch (favoriteTopic)
+            switch (favoriteSubject.ToLower())
             {
-                case "Math":
+                case "math":
                     Console.WriteLine("Math is a great subject");
                     break;
-                case "English":
+                case "english":
                     Console.WriteLine("Bobby, you speak English.");
                     break;
-                case "Lunch":
+                case "lunch":
                     Console.WriteLine("You're probably failing, but at least you're not hungry.");
                     break;
-                case "History":
+                case "history":
                     Console.WriteLine("It's in the past.");
                     break;
-                case "Science":
+                case "science":
                     Console.WriteLine("Science is realizing we know nothing.");
                     break;
                 default:

@@ -1,4 +1,3 @@
-C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.AssemblyReference.cache
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExe
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.pdb
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.genruntimeconfig.cache
 C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\ref\SelectionStatementExercise.dll
+C:\Users\bronc\Desktop\Repos\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.sourcelink.json
